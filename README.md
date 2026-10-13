@@ -16,6 +16,15 @@ This project analyzes the Supermart database using PostgreSQL to identify sales 
 - **SQL Environment:** pgAdmin
 - **Dataset:** Supermart Database (`supertmart_DB`)
 
+## Project Preview
+
+### Images of PostgreSQL Project
+
+(Screenshots\image_1.png)
+(Screenshots\image_2.png)
+(Screenshots\image_3.png)
+(Screenshots\image_4.png)
+
 ## Key Analysis
 The project covers 20 SQL analysis tasks, including:
 
