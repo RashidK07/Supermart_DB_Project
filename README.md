@@ -66,6 +66,7 @@ Supermart_DB_Project/
 ├── README.md
 └── Questions_Supermart_DB.pdf
 └── SQL_MIni_Project.sql
+└── Screenshots
 ```
 
 
