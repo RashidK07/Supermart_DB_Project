@@ -18,15 +18,13 @@ This project analyzes the Supermart database using PostgreSQL to identify sales 
 
 ## Project Preview
 
-### Images of PostgreSQL Project
+![Sales Performance By Region](Screenshots/image_1.png)
 
-!(Screenshots/image_1.png)
+![Sales By Customer Segment](Screenshots/image_2.png)
 
-![Top Companies](Screenshots/screenshot_2.png)
+![Top 5 Customers By Sales](Screenshots/image_3.png)
 
-![Year-Wise Spending](Screenshots/screenshot_3.png)
-
-![Political Party Funding](Screenshots/screenshot_4.png)
+![Top 3 Customers By Profit](Screenshots/image_4.png)
 
 
 ## Key Analysis
