@@ -130,27 +130,3 @@ from customer as c join sales as s on c.customer_id=s.customer_id;
 
 select ship_mode, sales, dense_rank() 
 over(partition by ship_mode order by sales desc) as ranks from sales;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
